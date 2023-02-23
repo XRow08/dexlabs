@@ -1,0 +1,24 @@
+<svg
+  version="1.1"
+  id="Camada_1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlnsXlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+  viewBox="0 0 800 800"
+  xmlSpace="preserve"
+>
+  <g>
+    <polygon
+      fill="#39F2AE"
+      points="727.1,194.3 629.3,194.3 342.2,604.3 440.1,604.3 	"
+    />
+    <g>
+      <path
+        fill="#39F2AE"
+        d="M278.7,604.3h-97.4L97.2,477.8c-32.9-49.6-34.3-114.4,0-163.4l84.1-120l97.4,0L165,356.7
+c-16.6,23.6-16.6,55.1,0,78.8L278.7,604.3z"
+      />
+    </g>
+  </g>
+</svg>
